@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project name="ansibleproj" default="compile" basedir=".">
+<project name="hcl-project" default="compile" basedir=".">
  <!-- ANT will start execution from here by finding target "compile"  -->
  <target name="compile" depends="clean">
   <!-- Java compile parameters here  -->
